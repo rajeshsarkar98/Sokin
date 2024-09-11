@@ -1,3 +1,3 @@
 # Sokin
-This is create for music sokin person 
+This is create for music sokin person.
 Auther - Rajesh Sarkar
